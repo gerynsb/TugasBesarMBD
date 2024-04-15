@@ -16,4 +16,31 @@ Database yang digunakan terdiri dari 6 tabel yaitu distributor, komputer, pegawa
 Pengembangan interface aplikasi yang adalah untuk aplikasi desktop, interface yang digunakan adalah menggunakan interface yang memiliki fungsi untuk add data, display, update, delete, search, reset, dan exit. Awalnya fungsi yang ingin digunakan hanya untuk melakukan search pada database, tetapi setelah pengembangan dan diskusi lebih lanjut akhirnya dibuatkan fungsi yang lebih kompleks yaitu sesuai dengan yang telah sebelumnya dipaprkan. Berikut adalah gambar prototype dari aplikasi yang dikembangkan. 
 ![alt text](https://github.com/gerynsb/TugasBesarMBD/blob/main/Img/Protoype.png)
 <br><br/>
-Pada saat pengembangan selanjutnya untuk menghubungkan database 
+Pada saat pengembangan selanjutnya untuk menghubungkan database library yang digunakan adalah library pymysql yang cukup mudah untuk dipahami. Dengan library ini database dan GUI dapat disambungkan, implementasinya dapat ditunjukkan dari kode berikut.
+
+![alt text](pymysql)
+
+Untuk source code yang digunakan dilampirkan pada pemrograman berikut adalah interface dari masing-masing tampilan implementasi GUI : 
+
+<br>Distributor:<br/>
+
+![alt text](https://github.com/gerynsb/TugasBesarMBD/blob/main/Img/Interface_Distributor.png)
+
+<br>Komputer:<br/>
+
+![alt text](https://github.com/gerynsb/TugasBesarMBD/blob/main/Img/Interface_Pegawai.png)
+
+<br>Pegawai:<br/>
+![alt text](https://github.com/gerynsb/TugasBesarMBD/blob/main/Img/Interface_Pegawai.png).
+
+<br>Pembayaran :<br/>
+![alt text](https://github.com/gerynsb/TugasBesarMBD/blob/main/Img/Interface_Pembayaran.png)
+
+<br>Pembeli :<br/>
+![alt text](https://github.com/gerynsb/TugasBesarMBD/blob/main/Img/Interface_Pembeli.png)
+
+<br>Pesanan :<br/>
+![alt text](https://github.com/gerynsb/TugasBesarMBD/blob/main/Img/Interface_Pesanan.png)
+
+
+
