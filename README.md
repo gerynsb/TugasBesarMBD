@@ -11,7 +11,7 @@ Dalam pengembangan sistem ini, untuk mendukung pembuatan Graphic User Interface 
 
 # Database 
 Database yang digunakan terdiri dari 6 tabel yaitu distributor, komputer, pegawai, pembayaran, pembeli, dan pesanan. Database ini merupakan manajemen suatu toko komputer yang perlu untuk diimplementasikan dalam bentuk interface sebagai kualifikasi dari tugas besar dari mata kuliah manajemen basis data. Dilakukan pengujian dalam data-data yang telah dibuat dengan interface yang dikembangkan yang masing-masing dihubungkan dengan database. Berikut adalah konten tabel dari masing-masing database.
-Ditributor:__
+Ditributor:<br/>
 
 
 
